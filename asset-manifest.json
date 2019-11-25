@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/calendar/static/css/main.b8aa8cd4.chunk.css",
+    "main.js": "/calendar/static/js/main.a9ae76cf.chunk.js",
+    "main.js.map": "/calendar/static/js/main.a9ae76cf.chunk.js.map",
+    "runtime-main.js": "/calendar/static/js/runtime-main.367dd98c.js",
+    "runtime-main.js.map": "/calendar/static/js/runtime-main.367dd98c.js.map",
+    "static/css/2.30861e7f.chunk.css": "/calendar/static/css/2.30861e7f.chunk.css",
+    "static/js/2.1839e058.chunk.js": "/calendar/static/js/2.1839e058.chunk.js",
+    "static/js/2.1839e058.chunk.js.map": "/calendar/static/js/2.1839e058.chunk.js.map",
+    "index.html": "/calendar/index.html",
+    "precache-manifest.c1d5668d688aeae4bb7512f2faf061f6.js": "/calendar/precache-manifest.c1d5668d688aeae4bb7512f2faf061f6.js",
+    "service-worker.js": "/calendar/service-worker.js",
+    "static/css/2.30861e7f.chunk.css.map": "/calendar/static/css/2.30861e7f.chunk.css.map",
+    "static/css/main.b8aa8cd4.chunk.css.map": "/calendar/static/css/main.b8aa8cd4.chunk.css.map",
+    "static/media/logo.svg": "/calendar/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.367dd98c.js",
+    "static/css/2.30861e7f.chunk.css",
+    "static/js/2.1839e058.chunk.js",
+    "static/css/main.b8aa8cd4.chunk.css",
+    "static/js/main.a9ae76cf.chunk.js"
+  ]
+}
